@@ -21,7 +21,7 @@ I am a dedicated software engineering student with a strong focus on process opt
 ## Featured Engineering Projects
 
 ### 🛠️ Production Schedule Automation System
-* **The Problem:** Managing job sequencing across multiple manufacturing lines relied on an manual trackering. This could lead to workflows suffering from scheduling collisions, overlapping line assignments, and critical overhead bottlenecks.
+* **The Problem:** Managing job sequencing across multiple manufacturing lines relied on an manual tracking. This could lead to workflows suffering from scheduling collisions, overlapping line assignments, and critical overhead bottlenecks.
 * **The Solution:** Developed a robust Java automation system to dynamically map production grids and seamlessly sequence multi-line job runs.
 * **Key Architecture:** Implemented advanced data-filtering matrices to prevent scheduling conflicts while explicitly preserving manual supervisor overrides and data integrity.
 * **Case Study & Demo:** [Link to Case Study Repository or Demo Video]
