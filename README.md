@@ -1,25 +1,24 @@
 # David Hubbard
 
-### Software Engineer & Automation Developer
-📍 United States | 🎓 Expected Graduation: July 2026
+### Computer Scientist
+📍 Batesville, MS | Email: dhubbard2@gmail.com
 
 ---
 
 ## About Me
-I am a dedicated software engineering student with a strong focus on process optimization, database management, and industrial efficiency. I describe my approach to software development as tenacious; I thrive on taking complex, ambiguous real-world problems and engineering thorough, high-performance software solutions. 
+I am a dedicated software engineering student with a strong focus on process optimization, database management, and industrial efficiency. I describe my approach to software development as tenacious; I thrive on taking complex, real-world problems and engineering thorough, high-performance software solutions. 
 
-I excel at bridging the gap between raw data structures and practical, user-centric automation tools that streamline enterprise workflows.
 
 ---
 
-## 🛠️ Technical Toolbox
+## Technical Toolbox
 
 * **Languages:** Java, SQL, Python, C++
 * **Developer Tools:** Git/GitHub, VS Code, Power Apps, Power BI, Android Studio
 
 ---
 
-## 📂 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### 🛠️ Production Schedule Automation System
 * **The Problem:** Managing job sequencing across multiple manufacturing lines relied on an manual trackering. This could lead to workflows suffering from scheduling collisions, overlapping line assignments, and critical overhead bottlenecks.
@@ -39,6 +38,6 @@ I excel at bridging the gap between raw data structures and practical, user-cent
 
 ## 🎓 Education & Experience
 
-* **B.S. in Computer Science** | Jacksonville State University *(Expected July 2026)*
-* **A.A. in Liberal Arts** | East Central Community College
+* **B.S. in Computer Science** | Jacksonville State University 2026
+* **A.A. in Liberal Arts** | East Central Community College 2024
 * **Operations & Field Engineering Intern** | Insituform Technologies
