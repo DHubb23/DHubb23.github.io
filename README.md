@@ -1,7 +1,8 @@
 # David Hubbard
 
 ### Computer Science Graduate | Software Engineer | Java Developer
-📍 United States | 🎓 Expected Graduation: July 2026
+📍 United States | 🎓 B.S. Computer Science
+Jacksonville State University • 2026
 
 ---
 
