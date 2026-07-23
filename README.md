@@ -18,27 +18,28 @@ I am a Computer Science graduate and software engineer with experience designing
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
 ### 🛠️ Production Schedule Automation System
  A Java-based scheduling application that automates production planning across multiple manufacturing lines while minimizing scheduling conflicts and preserving manual supervisor overrides.
 🔗 **[View Repository](https://github.com/DHubb23/ProductionSchedule)**
 
 ### 📊 Restaurant Management & Inventory Database
-* **Overview:**
-* **The Problem:** Fragmented tracking systems make it difficult to maintain real-time ingredient metrics and accurate point-of-sale reporting.
-* **The Solution:** Engineered a structured, relational SQL database optimized to track live stock updates, map operational dependencies, and automate routine inventory reporting queries.
-* **Technologies:**
-- SQL
-- Lucid Chart
+A relational database system created for a full-service restaurant. The project focused on modeling restaurant operations through a normalized database capable of managing customers, orders, employees, and inventory, suppliers, promotions, and loyalty programs.
+🔗 **[View Repository](https://github.com/DHubb23/Restaurant-Management-Database)**
 
-### 👥 Workforce Attendance Tracking System
-* **Overview:** A desktop-based Java application designed to manage employee attendance, work schedules, and shift records. The application automates time tracking, calculates worked hours, and maintains attendance history for management reporting.
+### 👥 Team Workforce Attendance Tracking System
+* **Overview:** A  Java application developed as part of a team software engineering project to manage employee attendance, work schedules, and shift records. The application automates time tracking, calculates worked hours, and maintains attendance history for management reporting.
 * **The Problem:** Tracking employee attendance, hours, and shift consistency manually across an organization is time-consuming and highly prone to clerical errors.
-* **The Solution:** Developed a robust, desktop-based workforce attendance tracking application entirely in Java. 
-* **Technologies:**
-- Java (Netbeans)
-- SQL
+* **The Solution:** Collaborated on a robust, workforce attendance tracking application entirely in Java. 
+* **Technologies:** Java (Netbeans), SQL, Git/Github
+* **My Contributions:**
+- Implemented employee scheduling and attendance management features.
+- Developed time punch processing and worked-hour calculations.
+- Contributed to database access using the DAO pattern.
+- Collaborated using Git and GitHub in a multi-developer software engineering project.
+🔗 **[View Repository](https://github.com/DHubb23/cs310-teamproject-1)**
+
 ---
 
 ## 🎓 Education & Experience
